@@ -42,7 +42,7 @@
 - Criação e design de materiais para divulgação digital, incluindo banners, anúncios e outras peças visuais para campanhas online.
 - **Habilidades destacadas:** Design Gráfico e Criação Visual, Análise de Desempenho e Métricas.
 
-## **Assistente de redação e Auxiliar de Web Designer | Rondoniaovivo - Porto Velho / Rondônia (Abril/2018 -- Janeiro/2020)**
+## **Auxiliar de desenvolvedor Web | Netpix - Agência Web | Porto Velho - RO - Porto Velho / Rondônia (Abril/2018 -- Janeiro/2020)**
 - Auxílio na criação de temas e plugins em PHP para Wordpress.
 - Criação de páginas com HTML e CSS para empresas e campanhas institucionais.
 - Auxílio na ideação de projetos de sites institucionais, E-commerce(WooCommerce) e landing pages.

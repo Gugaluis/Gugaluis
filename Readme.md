@@ -128,7 +128,8 @@
 - Python AI Backend Developer
 - Smart Data Structures
 - Fundamentos de Lógica de Programação
-- 
+- BI & Big Data
+- Microsserviços e Containers
 
 <br>
 

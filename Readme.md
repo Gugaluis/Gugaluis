@@ -28,8 +28,8 @@
 - Gestão de ativos de rede, infraestrutura e implantação de servidor NAS para backups corporativos.
 - **Habilidades destacadas:** TOTVS RM/Protheus, SQL, Power BI, Indicadores de RH, Governança de TI.
 
-## **Analista de Sistemas | Agro Serra – Balsas / Maranhão (Setembro/2024 -- Abril/2025)**
-- Refatoração completa do sistema de gerenciamento de cargas da fazenda (código legado, queries, lógica de negócio).
+## **Analista de Sistemas | Agro Serra – Balsas / Maranhão (Setembro/2024 -- Agosto/2025)**
+- Refatoração completa do sistema de gerenciamento de cargas da fazenda (código legado, queries, lógica de negócio) trazendo um sistema completamente novo feito em laravel.
 - Criação de dashboards de produção e logística com Power BI e MySQL.
 - Automação de rotinas de backup local e em nuvem, com 100% de recuperação de dados.
 - Suporte contínuo ao TOTVS RM e Protheus, reduzindo em 40% o tempo médio de resolução de chamados.
